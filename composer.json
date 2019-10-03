@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Dhl_OnlineRetoure",
+    "name": "OpenMageModuleFostering\/Dhl_OnlineRetoure",
     "type": "magento-module",
     "license": "OSL3",
     "homepage": "",
     "description": "DHL OnlineRetoure",
     "authors": [
-    {
-        "name": "Andr\u00e9 Herrn",
-        "email": "andre.herrn@netresearch.de"
-    }
-],
+        {
+            "name": "Andr\u00e9 Herrn",
+            "email": "andre.herrn@netresearch.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
